@@ -1,1 +1,2 @@
 # resumen-apis
+Taller de JAP individual, resumen de apis y conexión a una api. Para esta tarea decidí crear mi propia api utilizando la página de mockapi y los recursos vistos en clases. Link a la api: https://650cbe6047af3fd22f67f515.mockapi.io/api-info/ La api contiene el resumen del artículo https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces. A través de los botones de la página se va accediendo a los diferentes temas del resumen. Tambien utilice https://codepen.io/ para añadirle estilo a los mismos.
